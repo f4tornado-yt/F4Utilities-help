@@ -1,0 +1,14 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+  background: #e1e1ff;
+}
+
+h2 {
+  position:relative;
+  left:5%;
+}
+
+h3 {
+  position:relative;
+  left:10%;
+}
