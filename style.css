@@ -16,3 +16,7 @@
   position:relative;
   left:10%;
 }
+
+ul {
+  left-margin:1rem;
+}
