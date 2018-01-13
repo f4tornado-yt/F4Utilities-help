@@ -5,12 +5,12 @@
   color:000000;
 }
 
-h2 {
+.h2 {
   position:relative;
   left:5%;
 }
 
-h3 {
+.h3 {
   position:relative;
   left:10%;
 }
