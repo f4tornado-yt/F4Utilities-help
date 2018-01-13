@@ -6,11 +6,13 @@
 }
 
 .h2 {
+  display:list-item
   position:relative;
   left:5%;
 }
 
 .h3 {
+  display:list-item
   position:relative;
   left:10%;
 }
