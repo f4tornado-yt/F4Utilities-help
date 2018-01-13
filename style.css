@@ -13,8 +13,9 @@
 .h3 {
   position:relative;
   left:10%;
+  font-weight: lighter;
 }
 
 ul {
-  left-margin:1rem;
+  margin-left:1rem;
 }
