@@ -1,2 +1,4 @@
 We do not share your information with anybody, ever. Only google collects information about you, not us.
 We use the info colleced by google, just to see how many downloads we have.
+
+I need this https://www.googleapis.com/auth/spreadsheets scope for my app to read and write the information in a spreadsheet so that I can sort numbers in a spreadsheet, and check if any cells are the same
