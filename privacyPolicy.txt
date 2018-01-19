@@ -2,3 +2,5 @@ We do not share your information with anybody, except my developer team. Only go
 We use the info colleced by google, just to see how many downloads we have and to see who uses our extension so we can improve the experience for the most people.
 
 I need this https://www.googleapis.com/auth/spreadsheets scope for my app to read and write the information in a spreadsheet so that I can sort numbers in a spreadsheet, and check if any cells are the same
+
+I need this https://www.googleapis.com/auth/script.container.ui scope to link you to my help and privacy policy page when you click the item in the menu.
